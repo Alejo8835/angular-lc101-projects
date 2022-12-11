@@ -1,0 +1,17 @@
+.chores {
+    font-size: 18px;
+    
+}
+
+h3 {
+  color: rgba(10, 97, 10, 0.656);
+  text-decoration-line: underline;
+  text-decoration-color: #DF5689;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px;
+}
+
+li {
+    color: rgb(202, 202, 49);
+    font-style: italic;
+}
