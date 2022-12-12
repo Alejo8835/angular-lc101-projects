@@ -1,6 +1,7 @@
 .movies {
     
-  font-size: 16px;
+  font-size: 21px;
+  border-style: dotted;
 }
 
 h3 {
@@ -11,3 +12,4 @@ h3 {
 li {
     color: rgb(161, 83, 83);
 }
+
